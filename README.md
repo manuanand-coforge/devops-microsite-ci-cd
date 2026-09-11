@@ -283,7 +283,7 @@ The following evidence demonstrates successful CI/CD implementation:
 GitHub Pages Site:
 
 ```text
-https://<github-username>.github.io/<repository-name>/
+https://github.com/manuanand-coforge/devops-microsite-ci-cd.git
 ```
 
 ---
