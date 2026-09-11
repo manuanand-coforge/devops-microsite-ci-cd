@@ -2,7 +2,7 @@
   "name": "devops-microsite",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo 'Tests passed'",
+    "test": "exit 1",
     "lint": "echo 'Lint passed'",
     "build": "mkdir -p dist && cp *.html *.css *.js dist/"
   }
